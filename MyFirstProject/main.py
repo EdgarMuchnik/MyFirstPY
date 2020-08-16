@@ -7,4 +7,4 @@ print(x.upper())
 print(type(x))
 print(x+" "+y+" "+z.upper())
 a = "my name is"
-
+print(a)
